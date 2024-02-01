@@ -1,5 +1,8 @@
 # neuralTPPs-Diabetic-retinopathy 
 This study delves into the potential of Neural Temporal Point Processes (TPPs) for forecasting subsequent events related to Diabetic Retinopathy (DR) and associated medications, considering DR as a predominant vision impairment among diabetic patients. Utilizing an expansive simulated Electronic Health Records (EHR) dataset, we juxtapose the efficacy of Neural TPPs against other prevalent machine learning paradigms. Key performance indicators, such as the Area Under the Receiver Operating Characteristic Curve (ROC-AUC) and Negative Log Likelihood, serve as our evaluation benchmarks. Our analysis uncovers that the GRU-based Conditional Poisson process stands out in terms of performance, especially in dealing with time-sensitive data and predictive precision. Meanwhile, attention-driven Neural Temporal Point Processes are also highlighted for their interpretability, despite showcasing comparable results. This investigation augments the expanding domain of healthcare analytics, offering an in-depth appraisal of Neural TPPs in predicting events related to DR and its medications, thereby paving the way for future scholarly endeavors and prospective clinical integrations.
+![image](https://github.com/GitWithNeeraj/neuralTPPs-Diabetic-retinopathy/assets/84373485/3ddf7ce3-d609-4015-9d72-c17f638ed803)
+
+
 # Utilizing Neural Temporal Point Processes to Forecast Subsequent Events in Diabetic Retinopathy and Associated Medications
 
 The code is presnted here to train, evaluate and visualise (multi-class) Neural Temporal Point Processes (TPPs), as described in the paper:
