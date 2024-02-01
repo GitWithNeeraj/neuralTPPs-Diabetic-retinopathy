@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/365c661e6e0e46d282cb461aed26ce63/artifacts
+end_time: 1692649771809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 365c661e6e0e46d282cb461aed26ce63
+run_uuid: 365c661e6e0e46d282cb461aed26ce63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692649751774
+status: 3
+tags: []
+user_id: neeraj
